@@ -1,0 +1,25 @@
+  Specializarea Informatica economica
+
+I.  FUNDAMENTALE
+
+       Marketing
+       Limbi straine
+      
+II. DIN DOMENIU
+
+       Programare oriontata pe obiecte(OOP)
+       Sondaje si anchete statistice
+       Managementul strategic
+
+III. DE SEPECIALITATE 
+     
+       Tehnologii si aplicatii web
+       Sisteme de gestiune a bazelor de date
+       Capela
+
+IV.  COMPLEMENTARE
+        
+          Catehetica
+          Comunicarea in afaceri 
+
+   
